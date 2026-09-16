@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+build/
+dist/
+*.spec
+
+.vscode/
+
+# 개인 설정 및 민감 정보
+config.local.json
+
+# 실행 파일 및 임시 파일
+*.log
+*.tmp

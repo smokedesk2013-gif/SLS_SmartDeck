@@ -1,0 +1,1462 @@
+2026-09-07 15:36:16 [INFO] === 시스템 시작 ===
+2026-09-07 15:36:16 [INFO] 설정 파일 로드 완료
+2026-09-07 15:36:17 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-07 15:36:20 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-07 15:36:25 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:36:26 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:36:27 [INFO] UI에서 로그 파일을 열었습니다.
+2026-09-07 15:36:41 [INFO] 톤체크 시작 명령 발생
+2026-09-07 15:36:42 [INFO] 톤체크 종료 명령 발생
+2026-09-07 15:36:43 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x26b666af460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-07 15:36:43 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-07 15:36:43 [INFO] 톤체크 시작 명령 발생
+2026-09-07 15:36:43 [INFO] 톤체크 종료 명령 발생
+2026-09-07 15:36:44 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x26b666af680>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-07 15:36:44 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-07 15:36:44 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x26b666ae140>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-07 15:36:44 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-07 15:36:45 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x26b666ac9e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-07 15:36:45 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-07 15:36:48 [INFO] UI에서 로그 파일을 열었습니다.
+2026-09-07 15:41:14 [INFO] === 시스템 종료 ===
+2026-09-07 15:42:58 [INFO] === 시스템 시작 ===
+2026-09-07 15:42:58 [INFO] 설정 파일 로드 완료
+2026-09-07 15:43:00 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-07 15:43:07 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-07 15:45:59 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:46:00 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:46:02 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:46:03 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:46:06 [INFO] === 시스템 종료 ===
+2026-09-07 15:46:58 [INFO] === 시스템 시작 ===
+2026-09-07 15:46:58 [INFO] 설정 파일 로드 완료
+2026-09-07 15:46:59 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-07 15:47:01 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-07 15:47:03 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:47:05 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:47:06 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:47:08 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:47:09 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:47:12 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:47:18 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:47:19 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:47:58 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:48:01 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:48:03 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:48:07 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:48:46 [INFO] === 시스템 종료 ===
+2026-09-07 15:49:38 [INFO] === 시스템 시작 ===
+2026-09-07 15:49:38 [INFO] 설정 파일 로드 완료
+2026-09-07 15:49:39 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-07 15:49:41 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-07 15:49:45 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:49:48 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:49:52 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:49:55 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:54:50 [INFO] === 시스템 종료 ===
+2026-09-07 15:54:59 [INFO] === 시스템 시작 ===
+2026-09-07 15:54:59 [INFO] 설정 파일 로드 완료
+2026-09-07 15:55:00 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-07 15:55:02 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-07 15:56:55 [INFO] UI에서 로그 파일을 열었습니다.
+2026-09-07 15:57:05 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:57:08 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:57:10 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-07 15:57:11 [INFO] GUI 모드 변경: 일반 모드
+2026-09-07 15:57:15 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-07 15:57:17 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 13:23:36 [INFO] === 시스템 시작 ===
+2026-09-08 13:23:36 [INFO] 설정 파일 로드 완료
+2026-09-08 13:23:43 [INFO] === 시스템 시작 ===
+2026-09-08 13:23:43 [INFO] 설정 파일 로드 완료
+2026-09-08 13:23:45 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 13:23:47 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 13:24:02 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:24:03 [INFO] 톤체크 종료 명령 발생
+2026-09-08 13:24:04 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x221983e4af0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:24:04 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:24:05 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x22194c8fdf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:24:05 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 13:24:19 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-08 13:24:20 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-08 13:28:07 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:28:08 [INFO] 톤체크 종료 명령 발생
+2026-09-08 13:28:08 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x221983f99d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:28:08 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:28:10 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x221983f9040>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:28:10 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 13:30:01 [INFO] === 시스템 종료 ===
+2026-09-08 13:46:06 [INFO] === 시스템 시작 ===
+2026-09-08 13:46:06 [INFO] 설정 파일 로드 완료
+2026-09-08 13:46:07 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 13:46:10 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 13:46:14 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:46:16 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x2ad3c1b7570>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:46:16 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:46:16 [INFO] 톤체크 종료 명령 발생
+2026-09-08 13:46:17 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x2ad3c1b7ac0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:46:17 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 13:46:17 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:46:19 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x2ad3f948270>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:46:19 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:46:19 [INFO] 톤체크 종료 명령 발생
+2026-09-08 13:46:21 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x2ad3f9488d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:46:21 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 13:46:22 [INFO] 4열 버튼 제어: drum -> ON
+2026-09-08 13:46:23 [INFO] 4열 버튼 제어: drum -> OFF
+2026-09-08 13:46:24 [INFO] 4열 버튼 제어: keyboard -> ON
+2026-09-08 13:46:25 [INFO] 4열 버튼 제어: keyboard -> OFF
+2026-09-08 13:46:26 [INFO] 4열 버튼 제어: desk -> ON
+2026-09-08 13:46:27 [INFO] 4열 버튼 제어: desk -> OFF
+2026-09-08 13:46:28 [INFO] 4열 버튼 제어: singer -> ON
+2026-09-08 13:46:29 [INFO] 4열 버튼 제어: singer -> OFF
+2026-09-08 13:46:29 [INFO] 4열 버튼 제어: musicalnote -> ON
+2026-09-08 13:46:30 [INFO] 4열 버튼 제어: musicalnote -> OFF
+2026-09-08 13:46:30 [INFO] 4열 버튼 제어: shot01 -> ON
+2026-09-08 13:46:31 [INFO] 4열 버튼 제어: shot01 -> OFF
+2026-09-08 13:46:32 [INFO] 4열 버튼 제어: shot02 -> ON
+2026-09-08 13:46:33 [INFO] 4열 버튼 제어: shot02 -> OFF
+2026-09-08 13:46:33 [INFO] 4열 버튼 제어: shot03 -> ON
+2026-09-08 13:46:36 [INFO] 4열 버튼 제어: shot03 -> OFF
+2026-09-08 13:46:36 [INFO] 4열 버튼 제어: shot03 -> ON
+2026-09-08 13:46:37 [INFO] 4열 버튼 제어: shot03 -> OFF
+2026-09-08 13:46:38 [INFO] 4열 버튼 제어: shot03 -> ON
+2026-09-08 13:46:41 [INFO] 4열 버튼 제어: keyboard -> ON
+2026-09-08 13:46:45 [INFO] 4열 버튼 제어: drum -> ON
+2026-09-08 13:46:47 [INFO] 4열 버튼 제어: drum -> OFF
+2026-09-08 13:46:47 [INFO] 4열 버튼 제어: drum -> ON
+2026-09-08 13:46:47 [INFO] 4열 버튼 제어: drum -> OFF
+2026-09-08 13:46:48 [INFO] 4열 버튼 제어: keyboard -> OFF
+2026-09-08 13:46:49 [INFO] 4열 버튼 제어: drum -> ON
+2026-09-08 13:46:49 [INFO] 4열 버튼 제어: keyboard -> ON
+2026-09-08 13:46:50 [INFO] 4열 버튼 제어: drum -> OFF
+2026-09-08 13:46:51 [INFO] 4열 버튼 제어: keyboard -> OFF
+2026-09-08 13:46:51 [INFO] 4열 버튼 제어: desk -> ON
+2026-09-08 13:46:52 [INFO] 4열 버튼 제어: singer -> ON
+2026-09-08 13:46:53 [INFO] 4열 버튼 제어: desk -> OFF
+2026-09-08 13:46:53 [INFO] 4열 버튼 제어: keyboard -> ON
+2026-09-08 13:46:54 [INFO] 4열 버튼 제어: drum -> ON
+2026-09-08 13:46:54 [INFO] 4열 버튼 제어: keyboard -> OFF
+2026-09-08 13:46:54 [INFO] 4열 버튼 제어: desk -> ON
+2026-09-08 13:46:55 [INFO] 4열 버튼 제어: desk -> OFF
+2026-09-08 13:46:55 [INFO] 4열 버튼 제어: singer -> OFF
+2026-09-08 13:46:57 [INFO] 4열 버튼 제어: shot01 -> ON
+2026-09-08 13:46:58 [INFO] 4열 버튼 제어: shot01 -> OFF
+2026-09-08 13:47:04 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:47:04 [INFO] 톤체크 종료 명령 발생
+2026-09-08 13:47:05 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-08 13:47:05 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x2ad3c1b7790>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:47:05 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:47:05 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-08 13:47:06 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x2ad3c1b7ac0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:47:06 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 13:48:54 [WARNING] [안전장치 작동] INPUT2는 이미 MIX3에서 사용 중입니다.
+2026-09-08 13:48:54 [ERROR] 라우팅 명령 전송 실패 (MIX 3): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=set_output_config_video_source&output_index=2&source_id=INPUT2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x2ad3c1b6cf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:48:55 [WARNING] [안전장치 작동] INPUT2는 이미 MIX3에서 사용 중입니다.
+2026-09-08 13:48:55 [ERROR] 라우팅 명령 전송 실패 (MIX 4): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=set_output_config_video_source&output_index=3&source_id=INPUT3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x2ad3c1b6be0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:48:56 [WARNING] [안전장치 작동] INPUT1는 이미 MIX2에서 사용 중입니다.
+2026-09-08 13:48:56 [WARNING] [안전장치 작동] INPUT2는 이미 MIX3에서 사용 중입니다.
+2026-09-08 13:49:20 [INFO] 4열 버튼 제어: musicalnote -> ON
+2026-09-08 13:49:21 [INFO] 4열 버튼 제어: musicalnote -> OFF
+2026-09-08 13:49:31 [INFO] 4열 버튼 제어: keyboard -> ON
+2026-09-08 13:49:32 [INFO] 4열 버튼 제어: drum -> OFF
+2026-09-08 13:49:47 [INFO] === 시스템 종료 ===
+2026-09-08 13:49:58 [INFO] === 시스템 시작 ===
+2026-09-08 13:49:58 [INFO] 설정 파일 로드 완료
+2026-09-08 13:49:59 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 13:50:01 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 13:50:04 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f77581da30>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:06 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847570>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:06 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758479b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:07 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847df0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:08 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f28380>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:09 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f287c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:10 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f28af0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:10 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758479b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:11 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:12 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847570>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:12 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846e00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:13 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847680>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:13 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846cf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:13 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758447c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:14 [ERROR] 라우팅 명령 전송 실패 (MIX 3): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=set_output_config_video_source&output_index=2&source_id=INPUT2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f289e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:15 [WARNING] [안전장치 작동] INPUT2는 이미 MIX3에서 사용 중입니다.
+2026-09-08 13:50:15 [ERROR] 라우팅 명령 전송 실패 (MIX 4): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=set_output_config_video_source&output_index=3&source_id=INPUT3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f28380>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:15 [WARNING] [안전장치 작동] INPUT3는 이미 MIX4에서 사용 중입니다.
+2026-09-08 13:50:16 [WARNING] [안전장치 작동] INPUT1는 이미 MIX2에서 사용 중입니다.
+2026-09-08 13:50:17 [WARNING] [안전장치 작동] INPUT2는 이미 MIX3에서 사용 중입니다.
+2026-09-08 13:50:20 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f29370>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:21 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f296a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:21 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f298c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:22 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f29d00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:26 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846cf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:27 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758448d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:50:28 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:50:29 [INFO] 톤체크 종료 명령 발생
+2026-09-08 13:50:30 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:50:30 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:50:31 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ce0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:50:31 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 13:51:52 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e360>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:51:52 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e140>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:51:53 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1dbf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:51:53 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d9d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:51:54 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d590>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:51:55 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1cf30>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:51:56 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ce20>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:51:57 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c8d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:51:57 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c9e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:51:57 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847790>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:51:58 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847f00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:00 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758448d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:01 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758478a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:02 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847680>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:03 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d040>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:03 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1cf30>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:03 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d260>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:04 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d150>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:05 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:52:06 [INFO] 톤체크 종료 명령 발생
+2026-09-08 13:52:06 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1dae0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:52:06 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:52:07 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:52:07 [INFO] 톤체크 종료 명령 발생
+2026-09-08 13:52:07 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e360>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:52:07 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 13:52:08 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e470>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:52:08 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:52:08 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:52:09 [INFO] 톤체크 종료 명령 발생
+2026-09-08 13:52:09 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e580>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:52:09 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 13:52:10 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ead0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:52:10 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:52:10 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ebe0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:52:10 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 13:52:16 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846cf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:17 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847240>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:17 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758449e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:17 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847570>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:18 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758479b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:18 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847790>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:18 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847350>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:19 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ce0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:19 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c6b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:19 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c490>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:20 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e580>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:20 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ecf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:21 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e7a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:22 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e250>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:22 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1de10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:23 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d9d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:24 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d260>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:24 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d480>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:52:24 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ce0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:53:14 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:53:14 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:53:14 [INFO] 톤체크 종료 명령 발생
+2026-09-08 13:53:15 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:53:15 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:53:15 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:53:15 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f240>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:53:15 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:53:16 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c160>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:53:16 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 13:53:16 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1cc00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:53:16 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:53:19 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:53:21 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ead0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:53:21 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:53:25 [INFO] 톤체크 시작 명령 발생
+2026-09-08 13:53:26 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e030>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:53:26 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 13:53:31 [INFO] 톤체크 종료 명령 발생
+2026-09-08 13:53:33 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846140>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 13:53:33 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 13:55:27 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847020>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:55:28 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846140>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:55:29 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ce0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:55:30 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d370>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:55:31 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f680>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:55:32 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f570>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:55:33 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c050>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:55:34 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1caf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:55:35 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c7c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:55:36 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1cc00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:55:36 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ef10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 13:55:37 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e9c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:17 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c160>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:18 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ebe0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:19 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1caf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:20 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c7c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:21 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ead0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:22 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ee00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:22 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e9c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:23 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847790>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:25 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847020>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:25 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:26 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758478a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:27 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847130>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:27 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758447c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:28 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ef10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:28 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1cc00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:28 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f020>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:29 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d7b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:29 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c490>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:29 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f240>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:30 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c9e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:30 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c8d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:30 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f680>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:31 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d370>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:31 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1dae0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:31 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f350>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:32 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c270>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:32 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846f10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:32 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847130>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:33 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847680>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:33 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:33 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ac0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:34 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758448d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:34 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847570>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:34 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758449e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:34 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847350>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:35 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d370>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:35 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:35 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c8d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:35 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c050>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:36 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c9e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:36 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f240>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:36 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f130>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:37 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ebe0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:38 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ef10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:38 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1caf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:39 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d9d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:40 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1dbf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:40 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847350>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:40 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758479b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:41 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847570>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:41 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846140>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:42 [INFO] 톤체크 시작 명령 발생
+2026-09-08 14:04:43 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:04:44 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846f10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 14:04:44 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 14:04:44 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-08 14:04:45 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-08 14:04:45 [ERROR] 메인 장비 매크로 전송 실패: HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=play_macro_byname&value=TCE+Tone+check+END (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758478a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.5)'))
+2026-09-08 14:04:45 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:04:51 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f130>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:52 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e470>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:52 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f020>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:53 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c490>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:53 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e030>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:54 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:54 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1cd10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:54 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ce20>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:55 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c270>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:55 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758478a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:56 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847020>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:56 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847130>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:57 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846140>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:57 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847240>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:58 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847df0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:59 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758448d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:04:59 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d370>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:00 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1de10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:00 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e030>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:00 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c490>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:00 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c8d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:01 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e470>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:01 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f240>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:01 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f130>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:02 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c7c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:02 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e580>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:02 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e9c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:02 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ef10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:03 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1dbf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:04 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1dae0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:04 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846e00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:04 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758449e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:05 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847350>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:05 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ce0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:05 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:05 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847790>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:06 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ac0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:06 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846cf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:06 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758447c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:06 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d9d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:07 [ERROR] 라우팅 명령 전송 실패 (MIX 4): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=set_output_config_video_source&output_index=3&source_id=INPUT4 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e580>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:07 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ecf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:08 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f130>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:08 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f240>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:08 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c160>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:09 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c8d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:09 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c9e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:09 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e030>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:10 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f570>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:10 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d370>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:10 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f680>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:11 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758447c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:11 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ac0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:11 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:13 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758449e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:14 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847680>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:14 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847df0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:14 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847240>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:15 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e7a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:15 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c9e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:16 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c8d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:16 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e470>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:22 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c7c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:23 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e250>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:24 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1dbf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:24 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c270>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:25 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1df20>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:25 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847df0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:26 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758448d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:26 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758449e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:27 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758479b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:27 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ac0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:29 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847790>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:30 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ce20>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:30 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e250>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:30 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ef10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:31 [WARNING] [안전장치 작동] INPUT1는 이미 MIX2에서 사용 중입니다.
+2026-09-08 14:05:31 [WARNING] [안전장치 작동] INPUT1는 이미 MIX2에서 사용 중입니다.
+2026-09-08 14:05:32 [WARNING] [안전장치 작동] INPUT2는 이미 MIX3에서 사용 중입니다.
+2026-09-08 14:05:34 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f020>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:35 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e470>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:36 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f240>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:36 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c9e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:36 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d7b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:37 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e7a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:37 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d150>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:37 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f350>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:38 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d370>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:38 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846cf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:38 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758478a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:05:39 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758479b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:17 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846cf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:18 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ce0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:18 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846f10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:19 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847790>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:19 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d8c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:19 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d260>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:20 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c6b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:20 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f8a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:20 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f9b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:21 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d480>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:21 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1df20>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:21 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1caf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:22 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e9c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:22 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e250>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:22 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d590>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:23 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ebe0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:23 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c490>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:23 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f130>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:23 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ce0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:24 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ac0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:24 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758478a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:25 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847df0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:26 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846e00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:26 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847130>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:27 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e250>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:27 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e9c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:27 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e8b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:28 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c270>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:28 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1d480>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:28 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f9b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:29 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f8a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:29 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1cd10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:29 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1dbf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:30 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f570>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:30 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1cf30>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:31 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ecf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:31 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f020>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:31 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:31 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847130>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:32 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847570>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:32 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847020>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:32 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758479b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:33 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ac0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:33 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758449e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:33 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758447c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:34 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846f10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:34 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f570>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:35 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1dbf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:35 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e360>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:35 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f8a0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:36 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f9b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:37 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e690>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:37 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1df20>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:37 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e8b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:39 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ead0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:44 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846f10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:44 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847790>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:44 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846be0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:45 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847f00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:45 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847350>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:46 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ce0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:46 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758448d0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:47 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846e00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:47 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f240>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:48 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ee00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:58 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e140>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:58 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e360>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:06:59 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1dbf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:00 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1cd10>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:00 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c160>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:04 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:13 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e140>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:15 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ce20>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:17 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e250>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:17 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e690>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:17 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e580>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:17 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e8b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:18 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1e9c0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:18 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1caf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:18 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1f240>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:21 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1ecf0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:22 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847ac0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:23 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758449e0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:23 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846be0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:07:27 [ERROR] PTZ 명령 전송 실패 (PTZ-8): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input8_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847df0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:26:07 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1cf30>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:26:08 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f778f1c490>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:26:08 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f7758479b0>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:26:09 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847020>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:26:10 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=3 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847460>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:26:10 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=2 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847f00>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:26:11 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=1 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775846140>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:26:11 [ERROR] PTZ 명령 전송 실패 (PTZ-7): HTTPConnectionPool(host='172.30.20.2', port=80): Max retries exceeded with url: /v1/shortcut?name=ptz_input7_load_from_emem&value=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='172.30.20.2', port=80) at 0x1f775847350>, 'Connection to 172.30.20.2 timed out. (connect timeout=1.0)'))
+2026-09-08 14:26:30 [INFO] === 시스템 종료 ===
+2026-09-08 14:26:55 [INFO] === 시스템 시작 ===
+2026-09-08 14:26:55 [INFO] 설정 파일 로드 완료
+2026-09-08 14:26:56 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 14:26:58 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 14:28:27 [INFO] === 시스템 종료 ===
+2026-09-08 14:29:02 [INFO] === 시스템 시작 ===
+2026-09-08 14:29:02 [INFO] 설정 파일 로드 완료
+2026-09-08 14:29:03 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 14:29:11 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 14:32:26 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:26 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:26 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:27 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:27 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:27 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:27 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:28 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:28 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:28 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:28 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:29 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:29 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:32:49 [INFO] 톤체크 시작 명령 발생
+2026-09-08 14:32:49 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:32:49 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 14:32:50 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:32:50 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:32:50 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:32:50 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-08 14:32:51 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:51 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:52 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:52 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:52 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:53 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:54 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:54 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:55 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:55 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:56 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:56 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:56 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:57 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:32:59 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:33:01 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:33:02 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:33:02 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-08 14:33:03 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-08 14:33:03 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:33:04 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:33:05 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:33:06 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-08 14:33:06 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-08 14:33:06 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:33:06 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:06 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:33:07 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:33:07 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:07 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:33:08 [INFO] 톤체크 시작 명령 발생
+2026-09-08 14:33:08 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:08 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 14:33:09 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:33:09 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:09 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:33:09 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:10 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:11 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:11 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:12 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:17 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:17 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:18 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:18 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:18 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:19 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:24 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:24 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:25 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:25 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:25 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:25 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:25 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:26 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:26 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:26 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:27 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:33:54 [INFO] 톤체크 시작 명령 발생
+2026-09-08 14:33:54 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:54 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 14:33:55 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:33:55 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:55 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:33:56 [INFO] 톤체크 시작 명령 발생
+2026-09-08 14:33:56 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:56 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 14:33:56 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:33:56 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:56 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:33:57 [INFO] 톤체크 시작 명령 발생
+2026-09-08 14:33:57 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:57 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 14:33:58 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:33:58 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:58 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:33:59 [INFO] 톤체크 시작 명령 발생
+2026-09-08 14:33:59 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:59 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 14:33:59 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:33:59 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:33:59 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:34:57 [INFO] === 시스템 종료 ===
+2026-09-08 14:36:46 [INFO] === 시스템 시작 ===
+2026-09-08 14:36:46 [INFO] 설정 파일 로드 완료
+2026-09-08 14:36:47 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 14:36:49 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 14:38:30 [INFO] === 시스템 종료 ===
+2026-09-08 14:39:24 [INFO] === 시스템 시작 ===
+2026-09-08 14:39:24 [INFO] 설정 파일 로드 완료
+2026-09-08 14:39:25 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 14:39:28 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 14:42:53 [INFO] === 시스템 종료 ===
+2026-09-08 14:43:06 [INFO] === 시스템 시작 ===
+2026-09-08 14:43:06 [INFO] 설정 파일 로드 완료
+2026-09-08 14:43:08 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 14:43:10 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 14:43:29 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:43:29 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:43:30 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:43:30 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:43:30 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:43:30 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:43:31 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:43:36 [INFO] === 시스템 종료 ===
+2026-09-08 14:43:39 [INFO] === 시스템 시작 ===
+2026-09-08 14:43:39 [INFO] 설정 파일 로드 완료
+2026-09-08 14:43:40 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 14:43:42 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 14:43:48 [INFO] === 시스템 종료 ===
+2026-09-08 14:48:25 [INFO] === 시스템 시작 ===
+2026-09-08 14:48:25 [INFO] 설정 파일 로드 완료
+2026-09-08 14:48:26 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 14:48:28 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 14:48:41 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: False)
+2026-09-08 14:48:49 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: True)
+2026-09-08 14:48:51 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: False)
+2026-09-08 14:48:53 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-08 14:48:54 [INFO] GUI 모드 변경: 일반 모드
+2026-09-08 14:48:56 [INFO] === 시스템 종료 ===
+2026-09-08 14:49:04 [INFO] === 시스템 시작 ===
+2026-09-08 14:49:04 [INFO] 설정 파일 로드 완료
+2026-09-08 14:49:06 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 14:49:08 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 14:49:11 [INFO] === 시스템 종료 ===
+2026-09-08 14:49:17 [INFO] === 시스템 시작 ===
+2026-09-08 14:49:17 [INFO] 설정 파일 로드 완료
+2026-09-08 14:49:18 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 14:49:20 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 14:49:24 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: True)
+2026-09-08 14:49:28 [INFO] === 시스템 종료 ===
+2026-09-08 14:49:31 [INFO] === 시스템 시작 ===
+2026-09-08 14:49:31 [INFO] 설정 파일 로드 완료
+2026-09-08 14:49:32 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 14:49:35 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 14:49:39 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: False)
+2026-09-08 14:49:44 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:49:44 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:49:45 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:49:45 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:49:45 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:49:45 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:49:45 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:49:45 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:49:46 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:49:46 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:49:46 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:53:18 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:53:19 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:53:19 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:53:38 [INFO] 톤체크 시작 명령 발생
+2026-09-08 14:53:38 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:53:38 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 14:53:39 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:53:39 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:53:39 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:53:40 [INFO] 톤체크 시작 명령 발생
+2026-09-08 14:53:40 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:53:40 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 14:53:41 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:53:41 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:53:41 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:53:41 [INFO] 톤체크 시작 명령 발생
+2026-09-08 14:53:41 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:53:41 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 14:53:42 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:53:42 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:53:42 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:54:15 [INFO] === 시스템 종료 ===
+2026-09-08 14:54:45 [INFO] === 시스템 시작 ===
+2026-09-08 14:54:45 [INFO] 설정 파일 로드 완료
+2026-09-08 14:54:46 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 14:54:49 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 14:54:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:54:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:54:51 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:54:53 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: True)
+2026-09-08 14:54:54 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:54:54 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:54:54 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:54:55 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:54:55 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:54:55 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:54:55 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:54:59 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: False)
+2026-09-08 14:55:00 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:55:00 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:55:01 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:55:01 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:55:02 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 14:55:02 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:55:03 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-08 14:55:04 [INFO] 톤체크 시작 명령 발생
+2026-09-08 14:55:04 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:55:04 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 14:55:04 [INFO] 톤체크 종료 명령 발생
+2026-09-08 14:55:04 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 14:55:04 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 14:55:12 [INFO] === 시스템 종료 ===
+2026-09-08 16:11:19 [INFO] === 시스템 시작 ===
+2026-09-08 16:11:19 [INFO] 설정 파일 로드 완료
+2026-09-08 16:11:20 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 16:11:22 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 16:11:29 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:29 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:30 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:31 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:31 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:32 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:33 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:34 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:34 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:35 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:36 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:37 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:38 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:38 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:40 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:41 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:42 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:42 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:43 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:43 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:44 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:51 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:11:51 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:12:21 [INFO] === 시스템 종료 ===
+2026-09-08 16:21:37 [INFO] === 시스템 시작 ===
+2026-09-08 16:21:37 [INFO] 설정 파일 로드 완료
+2026-09-08 16:21:38 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 16:21:41 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 16:21:42 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:44 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:44 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:47 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:48 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:51 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:52 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:52 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:53 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:53 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:55 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:21:55 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:22:13 [INFO] === 시스템 종료 ===
+2026-09-08 16:23:48 [INFO] === 시스템 시작 ===
+2026-09-08 16:23:48 [INFO] 설정 파일 로드 완료
+2026-09-08 16:23:50 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 16:23:52 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 16:23:53 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:24:00 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:24:01 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:24:02 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:24:04 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:24:07 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:24:25 [INFO] === 시스템 종료 ===
+2026-09-08 16:27:35 [INFO] === 시스템 시작 ===
+2026-09-08 16:27:35 [INFO] 설정 파일 로드 완료
+2026-09-08 16:27:37 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-08 16:27:39 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-08 16:27:41 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:42 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:42 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:43 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:44 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:46 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:47 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:48 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:51 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:51 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:52 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:53 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:54 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:54 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:55 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:56 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:56 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:27:57 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:17 [INFO] 톤체크 시작 명령 발생
+2026-09-08 16:28:17 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 16:28:17 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 16:28:18 [INFO] 톤체크 종료 명령 발생
+2026-09-08 16:28:18 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 16:28:18 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-08 16:28:36 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:36 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:37 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:37 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:38 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:39 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:39 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:40 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:41 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:41 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:42 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:43 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:44 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:45 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:46 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:47 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:47 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:48 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:48 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:51 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:51 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:28:51 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-08 16:29:00 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-08 16:29:01 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-08 16:29:18 [INFO] UI에서 로그 파일을 열었습니다.
+2026-09-08 16:31:55 [INFO] 톤체크 시작 명령 발생
+2026-09-08 16:31:55 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 16:31:55 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-08 16:31:56 [INFO] 톤체크 종료 명령 발생
+2026-09-08 16:31:56 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-08 16:31:56 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-09 11:06:31 [INFO] === 시스템 시작 ===
+2026-09-09 11:06:31 [INFO] === 시스템 시작 ===
+2026-09-09 11:06:31 [INFO] 설정 파일 로드 완료
+2026-09-09 11:06:31 [INFO] 설정 파일 로드 완료
+2026-09-09 11:06:33 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-09 11:06:33 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-09 11:06:35 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-09 11:06:35 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-09 11:06:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:46 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:46 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:46 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:46 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:46 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:46 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:47 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:47 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:47 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:47 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:47 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:47 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:48 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:48 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:48 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:48 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:06:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:19 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:19 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:20 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:20 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:20 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:20 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:20 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:20 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:21 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:21 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:21 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:21 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:21 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:21 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:21 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:21 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:21 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 11:07:22 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-09 11:07:22 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-09 11:07:22 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:22 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:24 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 11:07:26 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: True)
+2026-09-09 13:39:11 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: False)
+2026-09-09 13:39:12 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:12 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:13 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:13 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:13 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:13 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:13 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:13 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:14 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:14 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:14 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:14 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:14 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:14 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:14 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:14 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:15 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:15 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:15 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:15 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:15 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:15 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:15 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:15 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:16 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:16 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:16 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:16 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:16 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:16 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:19 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: True)
+2026-09-09 13:39:20 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: False)
+2026-09-09 13:39:21 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:21 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:21 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:21 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:21 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:21 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:22 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:22 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:22 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:22 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:22 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:22 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-09 13:39:23 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-09 13:39:23 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-09 13:39:23 [INFO] 톤체크 종료 명령 발생
+2026-09-09 13:39:23 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:23 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-09 13:39:23 [INFO] 톤체크 종료 명령 발생
+2026-09-09 13:39:23 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:23 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-09 13:39:23 [INFO] 톤체크 시작 명령 발생
+2026-09-09 13:39:23 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:23 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-09 13:39:23 [INFO] 톤체크 시작 명령 발생
+2026-09-09 13:39:23 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:23 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-09 13:39:24 [INFO] 톤체크 종료 명령 발생
+2026-09-09 13:39:24 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:24 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-09 13:39:24 [INFO] 톤체크 종료 명령 발생
+2026-09-09 13:39:24 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:24 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-09 13:39:24 [INFO] 톤체크 시작 명령 발생
+2026-09-09 13:39:24 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:24 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-09 13:39:24 [INFO] 톤체크 시작 명령 발생
+2026-09-09 13:39:24 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:24 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-09 13:39:24 [INFO] 톤체크 종료 명령 발생
+2026-09-09 13:39:24 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:24 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-09 13:39:24 [INFO] 톤체크 종료 명령 발생
+2026-09-09 13:39:24 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:24 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-09 13:39:24 [INFO] 톤체크 시작 명령 발생
+2026-09-09 13:39:24 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:24 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-09 13:39:24 [INFO] 톤체크 시작 명령 발생
+2026-09-09 13:39:24 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-09 13:39:24 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-09 13:39:28 [INFO] === 시스템 종료 ===
+2026-09-09 13:39:30 [INFO] === 시스템 종료 ===
+2026-09-09 13:39:38 [INFO] === 시스템 시작 ===
+2026-09-09 13:39:38 [INFO] 설정 파일 로드 완료
+2026-09-09 13:39:39 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-09 13:39:41 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-09 13:39:43 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:39:44 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:39:44 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:39:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:39:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:39:46 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:39:46 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:08 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:08 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:09 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:09 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:09 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:10 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:10 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:10 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:11 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:11 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:12 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:12 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-09 13:42:19 [INFO] === 시스템 종료 ===
+2026-09-10 13:29:01 [INFO] === 시스템 시작 ===
+2026-09-10 13:29:01 [INFO] 설정 파일 로드 완료
+2026-09-10 13:29:03 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-10 13:29:05 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-10 13:29:10 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:11 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:13 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:13 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:14 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:15 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:16 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:17 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:18 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:18 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:19 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:21 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:22 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:23 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:24 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:27 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:29 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:29 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:30 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:31 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:31 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:32 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:36 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:39 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:41 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:42 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:43 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:44 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:45 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:46 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:47 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:48 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:50 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:51 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:52 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:52 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:53 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:53 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-10 13:29:54 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-10 13:29:55 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:55 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:56 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:57 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:57 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:59 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:29:59 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:30:00 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:30:00 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:30:08 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:30:08 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:30:09 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:30:10 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:30:10 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:30:11 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:30:12 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:30:13 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:30:31 [INFO] === 시스템 종료 ===
+2026-09-10 13:32:57 [INFO] === 시스템 시작 ===
+2026-09-10 13:32:57 [INFO] 설정 파일 로드 완료
+2026-09-10 13:32:58 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-10 13:33:01 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-10 13:33:08 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:10 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:11 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:12 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:14 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:15 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:15 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:16 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:16 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:17 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:18 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:18 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:18 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:19 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:33:29 [INFO] === 시스템 종료 ===
+2026-09-10 13:34:36 [INFO] === 시스템 시작 ===
+2026-09-10 13:34:36 [INFO] 설정 파일 로드 완료
+2026-09-10 13:34:37 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-10 13:34:40 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-10 13:34:47 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:34:48 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:34:49 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:34:51 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:34:52 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:34:53 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:34:54 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:34:54 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:34:56 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:35:08 [INFO] === 시스템 종료 ===
+2026-09-10 13:36:15 [INFO] === 시스템 시작 ===
+2026-09-10 13:36:15 [INFO] 설정 파일 로드 완료
+2026-09-10 13:36:17 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-10 13:36:19 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-10 13:36:21 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:22 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:22 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:22 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:23 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:23 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:24 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:24 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:24 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:24 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:25 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:25 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:25 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:26 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:26 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:36:27 [INFO] 톤체크 시작 명령 발생
+2026-09-10 13:36:27 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-10 13:36:27 [INFO] 백업 장비(Mini) 매크로 실행 완료: Tone check
+2026-09-10 13:36:28 [INFO] 톤체크 종료 명령 발생
+2026-09-10 13:36:28 [WARNING] 메인 장비(TC2) 오프라인으로 매크로 전송 생략
+2026-09-10 13:36:28 [INFO] 백업 장비(Mini) 매크로 실행 완료: tone check end
+2026-09-10 13:36:29 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-10 13:36:29 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-10 13:37:04 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:06 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:07 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:08 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:11 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:11 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:12 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:12 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:13 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:16 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:17 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:18 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:20 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:22 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:23 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:24 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:25 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:26 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:26 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:26 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:28 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:28 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:29 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:29 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:29 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:29 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:30 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:30 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:37:48 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-10 13:37:49 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:37:49 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:37:49 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:37:49 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:37:49 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:37:49 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:37:49 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:37:49 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:37:54 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: True)
+2026-09-10 13:38:08 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: False)
+2026-09-10 13:39:05 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:05 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:05 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:06 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:06 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:07 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:07 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:07 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:08 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:08 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:08 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:09 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:09 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:10 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:10 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:10 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:11 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:11 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:11 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:12 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:12 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:12 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:13 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:13 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:15 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:15 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:17 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: True)
+2026-09-10 13:39:17 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: False)
+2026-09-10 13:39:18 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:19 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:19 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:20 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:20 [INFO] 설정 파일 저장 완료 (Main: 172.30.20.2, Backup: 172.30.20.5, ShowOffline: False)
+2026-09-10 13:39:20 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:21 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:22 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:22 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:23 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:24 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-10 13:39:26 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-10 13:39:27 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:28 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:29 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:29 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:29 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:30 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:30 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:30 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:31 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:31 [INFO] 패널이 잠겨있어 키 입력을 무시합니다.
+2026-09-10 13:39:33 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-10 13:39:34 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:34 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:34 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:35 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:35 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:36 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:36 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:36 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:37 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:37 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:37 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:37 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:38 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:38 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:38 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:38 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:39 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:39 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:40 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:41 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:42 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:42 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:42 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:43 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:43 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:43 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:44 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:39:59 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:00 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:00 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:00 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:01 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:01 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:01 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:02 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:02 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:02 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:03 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:03 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:03 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:04 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:04 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:04 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:05 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:05 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:06 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:06 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:06 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:07 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:07 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:07 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:08 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:08 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:08 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:09 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:09 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:09 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:10 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:10 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:10 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:11 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:40:12 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:12 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:13 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:13 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:13 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:13 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:13 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:40:14 [WARNING] [명령 무시] 메인 장비(TC2)가 오프라인 상태입니다.
+2026-09-10 13:41:36 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:36 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:36 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:37 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:38 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:38 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:38 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:39 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:39 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:39 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:40 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:40 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:40 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:41 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 13:41:41 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:05:46 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:05:47 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:05:48 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:05:48 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:05:49 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:05:50 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:05:50 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:05:51 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:05:51 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:05:51 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:06:07 [INFO] GUI 모드 변경: 미니멀 모드
+2026-09-10 14:06:09 [INFO] GUI 모드 변경: 일반 모드
+2026-09-10 14:06:14 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-10 14:06:16 [INFO] === 시스템 종료 ===
+2026-09-10 14:06:27 [INFO] === 시스템 시작 ===
+2026-09-10 14:06:27 [INFO] 설정 파일 로드 완료
+2026-09-10 14:06:28 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-10 14:06:31 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-10 14:06:34 [INFO] 패널 잠금 상태 변경: LOCKED
+2026-09-10 14:06:34 [INFO] 패널 잠금 상태 변경: UNLOCKED
+2026-09-10 14:06:59 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:00 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:00 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:01 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:01 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:02 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:02 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:11 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:12 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:12 [WARNING] [오프라인 테스트 모드] PTZ-7 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:13 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:13 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:13 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:14 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(3) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:14 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(2) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:14 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(1) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:14 [WARNING] [오프라인 테스트 모드] PTZ-8 프리셋(0) 상태만 변경되었습니다. (장비 미전송)
+2026-09-10 14:07:28 [INFO] === 시스템 종료 ===
+2026-09-10 14:20:32 [INFO] === 시스템 시작 ===
+2026-09-10 14:20:32 [INFO] 설정 파일 로드 완료
+2026-09-10 14:20:34 [INFO] 스트림덱 장치 리프레시 요청됨
+2026-09-10 14:20:36 [INFO] 스트림덱 연결 완료 (Stream Deck XL)
+2026-09-10 14:20:56 [INFO] === 시스템 종료 ===

@@ -1,0 +1,5 @@
+{
+    "TC_IP_MAIN": "172.30.20.2",
+    "TC_IP_BACKUP": "172.30.20.5",
+    "SHOW_OFFLINE": false
+}
